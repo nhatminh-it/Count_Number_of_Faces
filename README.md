@@ -8,4 +8,4 @@ Flask
 ### Run 
 run my_server_dl.py 
 ### Demo
-You can view demo in Youtube: https://youtu.be/KgISe6Kri70
+You can see demo in Youtube: https://youtu.be/KgISe6Kri70
