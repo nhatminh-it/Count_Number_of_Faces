@@ -6,6 +6,7 @@ Python
 OpenVC
 Flask
 ### Run 
+pip install -r requirements.txt
 run my_server_dl.py 
 ### Demo
 You can see demo in Youtube: https://youtu.be/KgISe6Kri70
