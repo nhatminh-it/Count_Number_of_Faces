@@ -12,5 +12,5 @@ run my_server_dl.py
 ### Demo
 You can see demo in Youtube: https://youtu.be/KgISe6Kri70
 
-### Thank MiAI for backend Flask
+### Thanks MiAI for backend Flask
 Based on: https://github.com/thangnch/MiAI_Python_Flask
